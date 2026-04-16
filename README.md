@@ -24,7 +24,7 @@ Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com d
    - JSON-LD: Organization, Product, Service, FAQPage.
    - Teknik FAQ blokları ve iç linkleme.
 5) Görsel/Tasarım Dili:
-   - Renkler: Deep Industrial Blue (#001A3D), Safety Orange (#FF5500), Clean White.
+   - Renkler: Deep Industrial Blue (#001A3D), Safety Orange (#FF5500), White.
    - Geniş hero alanları, diagonal section geçişleri, yüksek kalite üretim/lastik görselleri.
    - Turuncu CTA butonlar, güçlü hover/focus state.
 6) Teknoloji:
@@ -104,7 +104,7 @@ export default {
       colors: {
         industrialBlue: '#001A3D',
         safetyOrange: '#FF5500',
-        cleanWhite: '#FFFFFF'
+        white: '#FFFFFF'
       },
       fontFamily: {
         sans: ['Inter', 'Roboto', 'system-ui', 'sans-serif']
