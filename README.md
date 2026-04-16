@@ -7,7 +7,7 @@ Bu doküman, **otrretreading.com** için kurumsal/endüstriyel tasarım diliyle 
 ## 1) Dev Agent Master Prompt (Kopyala-Yapıştır)
 
 ```txt
-Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com domaini için modern lacivert/turuncu endüstriyel tasarım dilini temel alan, hem OTR lastik yenileme hizmetini hem de kauçuk/yarı mamul tedarikçi kimliğini net anlatan bir web sitesi inşa et.
+Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com domain için modern lacivert/turuncu endüstriyel tasarım dilini temel alan, hem OTR lastik yenileme hizmetini hem de kauçuk/yarı mamul tedarikçi kimliğini net anlatan bir web sitesi inşa et.
 
 Öncelikler:
 1) Dual-Value Proposition:
@@ -63,9 +63,9 @@ Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com d
 ## 3) Sayfa Bazlı İçerik ve Dönüşüm Kurgusu
 
 - **Home:** Çift değer önerisi (Service vs Supplier) için iki ana giriş kartı + “Our Edge” (amiral gemisi teknoloji/3D exploded view) + hızlı teklif CTA.
-- **Solutions:** Retreading, Machinery, Compounds için ikonlu teknik modüller ve kullanım senaryoları.
+- **Solutions:** Retreading, Machinery, Compounds için ikon tabanlı teknik modüller ve kullanım senaryoları.
 - **Resources:** Teknik makaleler, rehberler, data sheet indirme.
-- **Company:** Ar-Ge, kalite ve sürdürülebilirlik ispatı.
+- **Company:** Araştırma-Geliştirme (Ar-Ge), kalite ve sürdürülebilirlik ispatı.
 - **Case Studies:** Ölçülebilir kazanımlar (% maliyet düşüşü, ömür artışı, operasyonel verim).
 - **FAQ:** Lastik ömrü, green tire üretimi, lojistik ve tedarik süreçleri.
 - **Contact:** Global inquiry form + bölgesel satış/teknik ekip temasları.
