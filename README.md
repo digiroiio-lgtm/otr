@@ -52,7 +52,7 @@ Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com d
   - `/company/history`
   - `/company/sustainability`
   - `/company/careers`
-  - `/company/rd-lab`
+  - `/company/research-development-lab`
   - `/company/certifications`
 - `/case-studies`
 - `/faq`
