@@ -103,11 +103,10 @@ export default {
     extend: {
       colors: {
         industrialBlue: '#001A3D',
-        safetyOrange: '#FF5500',
-        white: '#FFFFFF'
+        safetyOrange: '#FF5500'
       },
       fontFamily: {
-        sans: ['Inter', 'Roboto', 'system-ui', 'sans-serif']
+        sans: ['Inter', 'system-ui', 'sans-serif']
       },
       boxShadow: {
         cta: '0 10px 25px rgba(255,85,0,0.25)'
