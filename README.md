@@ -87,7 +87,7 @@ Sen kıdemli bir Full-Stack Geliştirici ve SEO Uzmanısın. otrretreading.com d
 - Sustainable Retreading for Heavy Industry
 
 ### JSON-LD Şema Kapsamı
-- `Organization` (kurumsal kimlik, iletişim, logo, sameAs: sosyal medya/otoriter web profili URL'leri)
+- `Organization` (kurumsal kimlik, iletişim, logo, sameAs: sosyal medya/otorite web profili URL'leri)
 - `Product` (retread/pre-cured ürün kartları)
 - `Service` (retreading, inspection, logistics)
 - `FAQPage` (teknik SSS)
