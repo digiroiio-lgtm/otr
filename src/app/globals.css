@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-industrial-blue: #001A3D;
+  --color-safety-orange: #FF5500;
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --shadow-cta: 0 10px 25px rgba(255,85,0,0.25);
+}
+
+body {
+  background: #ffffff;
+  color: #171717;
+  font-family: var(--font-sans);
+}
